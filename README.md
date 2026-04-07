@@ -31,12 +31,7 @@
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
-<p>
-<img width="128" height="128" alt="882730" src="https://github.com/user-attachments/asse![Cisco-Packet-Tracer](https://github.com/user-attachments/assets/b5e7cbbb-0a47-429b-b8f0-35561a12ead2)
-ts/c2d88e2d-26f0-4b2f-938f-09475d0fc10c" />
-<img src="https://img.shields.io/badge/GNS3-2C2C2C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-</p>
+
 
 ### 💻 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
