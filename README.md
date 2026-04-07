@@ -8,6 +8,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2EF72C&background=%23%230D1117&center=true&width=435&lines=I'm+Belal+Eladawy;Security+Researcher;Network+Engineer+;OWASP+Project+Leader)](https://git.io/typing-svg)
 
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pharaoh1bm7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
+
 📤 My Social Accounts
 ###
 
@@ -32,7 +38,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pharaoh1bm7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
