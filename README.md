@@ -6,20 +6,17 @@
   </p>
 
 <h1 align="center">Hi, I'm Ahmed Hemeda</h1>
-<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
+<h2 align="center">OWASP Project Leader | Network Engineer | Security Researcher</h2>
 
 <div align="center">
-  <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
+  <a href="https://www.google.com/search?q=belal+eladawy"> <!-- Google Me -->
+
+
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF72C&width=435&lines=I'm+Belal+Eladawy;Security+Researcher;Network+Engineer+;OWASP+Project+Leader)](https://git.io/typing-svg)
     
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
 </div>
 
-  <p align="center">
-    <a href="https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view">
-      <img src="https://img.shields.io/badge/My CV-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://a-hemeda.github.io/Portfolio">
-      <img src="https://img.shields.io/badge/My Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/></a>
-  </p>
+
   
   <p>
     <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
