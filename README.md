@@ -16,23 +16,7 @@
 <h3 align="left">🔗 Connect with me</h3>
 
 
-<p align="left">
 
-<a href="https://github.com/pharaoh1bm7" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-</a>
-
-<a href="mailto:your-email@outlook.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
-</a>
-
-<a href="https://outlook.live.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" height="40"/>
-</a>
 
 <a href="https://hackerone.com/YOUR_USERNAME" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg" height="40"/>
