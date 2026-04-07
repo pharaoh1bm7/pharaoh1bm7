@@ -25,7 +25,7 @@
   ### 📤 My Social Accounts
   <p align="left">
     <a href="mailto:"></a>
-        <img width="128" height="128" alt="14777128" src="https://github.com/user-attachments/assets/52089e76-1928-4796-aff2-d86e3dec4614" />
+        <img width="45" height="45" alt="14777128" src="https://github.com/user-attachments/assets/52089e76-1928-4796-aff2-d86e3dec4614" />
     <a href="[https://linkedin.com/in/a-hemeda](https://www.linke
 din.com/in/belal-eladawy-43a893263/)">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
