@@ -24,7 +24,6 @@
 ![ACL](https://img.shields.io/badge/ACL-%23D32F2F.svg?style=for-the-badge)
 
 ---
-<img width="128" height="128" alt="882730" src="https://github.com/user-attachments/assets/c2d88e2d-26f0-4b2f-938f-09475d0fc10c" />
 
 ## 🧰 Tools
 
@@ -33,8 +32,8 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Packet%20Tracer-0096D6?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img width="128" height="128" alt="882730" src="https://github.com/user-attachments/assets/c2d88e2d-26f0-4b2f-938f-09475d0fc10c" />
+![Cisco-Packet-Tracer](https://github.com/user-attachments/assets/d64924f8-f795-433e-bd6f-0de04b8a311b)
 <img src="https://img.shields.io/badge/GNS3-2C2C2C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
