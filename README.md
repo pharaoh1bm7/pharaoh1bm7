@@ -14,10 +14,13 @@
 
 ---
 # 🔗 Connect with me
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-</div>
+## 🔗 Connect with me
+<p align="left">
+<a href="https://github.com/pharaoh1bm7"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
 ---
