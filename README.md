@@ -15,33 +15,34 @@
 ---
 <h3 align="left">🔗 Connect with me</h3>
 
+
 <p align="left">
+
 <a href="https://github.com/pharaoh1bm7" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
 
 <a href="mailto:your-email@outlook.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
 </a>
 
-<a href="https://outlook.live.com/">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+<a href="https://outlook.live.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" height="40"/>
 </a>
 
-<a href="https://hackerone.com/">
-  <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white"/>
+<a href="https://hackerone.com/YOUR_USERNAME" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg" height="40"/>
 </a>
 
-<a href="https://bugcrowd.com/">
-  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+<a href="https://bugcrowd.com/YOUR_USERNAME" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/bugcrowd/bugcrowd-icon.svg" height="40"/>
 </a>
 
-<a href="https://owasp.org/">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<a href="https://owasp.org/www-chapter-YOUR-CHAPTER/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" height="40"/>
 </a>
-</p>
 ---
