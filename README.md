@@ -15,9 +15,6 @@
 ---
 <h3 align="left">🔗 Connect with me</h3>
 
-
-
-
 <a href="https://hackerone.com/YOUR_USERNAME" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg" height="40"/>
 </a>
