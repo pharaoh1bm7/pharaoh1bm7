@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=5&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Designing%20networks%20that%20don%E2%80%99t%20just%20connect%20%E2%80%94%20they%20perform&descSize=14&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=5&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Designing%20networks%20that%20don%E2%80%99t%20just%20connect%20%E2%80%94%20they%20perform&descSize=27&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 
