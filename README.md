@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi, I'm Bilal Eladwy 👋</h1>
-<h3 align="center">🌐 Network Engineer | Infrastructure Enthusiast</h3>
+<h1 align="left">Hi, I'm Bilal Eladwy 👋</h1>
+<h3 align="left">🌐 Network Engineer | Infrastructure Enthusiast</h3>
 
 <div align="center">
   <a href="https://www.google.com/search?q=belal+eladawy"> <!-- Google Me -->
