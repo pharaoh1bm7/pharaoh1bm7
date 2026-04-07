@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi, I'm Bilal Eladwy 👋</h1>
-<h3 align="left">🌐 Network Engineer | Infrastructure Enthusiast</h3>
+<h3 align="left">OWASP Project Leader | Network Engineer | Security Researcher</h3>
 
 <div align="center">
   <a href="https://www.google.com/search?q=belal+eladawy"> <!-- Google Me -->
