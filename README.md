@@ -25,12 +25,18 @@
 
 ---
 
-### 🧰 Tools
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0096D6?style=for-the-badge&logo=cisco&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-2C2C2C?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+## 🧰 Tools
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Packet%20Tracer-0096D6?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/GNS3-2C2C2C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
 
 ### 💻 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
