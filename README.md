@@ -33,6 +33,7 @@
 </p>
 <img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/d05e5502-800c-436d-9c1c-84ea67978c39" />
 
+<img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/f2fabfbe-a9ec-4a89-93dd-1ca4fbae4a2d" />
 
 
 ### 💻 Operating Systems
