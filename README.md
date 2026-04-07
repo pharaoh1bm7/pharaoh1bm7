@@ -24,14 +24,13 @@
 
   ### 📤 My Social Accounts
   <p align="left">
-    <a href="mailto:7hemeda@gmail.com">
-      <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/></a> &nbsp;
-    <a href="https://linkedin.com/in/a-hemeda">
+    <a href="mailto:"></a>
+        <img width="128" height="128" alt="14777128" src="https://github.com/user-attachments/assets/52089e76-1928-4796-aff2-d86e3dec4614" />
+    <a href="[https://linkedin.com/in/a-hemeda](https://www.linke
+din.com/in/belal-eladawy-43a893263/)">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
-    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
-      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/></a> &nbsp;
-    <a href="https://youtube.com/@A-Hemeda">
-      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="45"/></a>
+    
+    
   </p>
 
 ### 🛠️ Top Technical Skills & Tools
