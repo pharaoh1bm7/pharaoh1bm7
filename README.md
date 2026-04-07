@@ -29,7 +29,9 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,windows" />
+  
 </p>
+<img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/d05e5502-800c-436d-9c1c-84ea67978c39" />
 
 
 
