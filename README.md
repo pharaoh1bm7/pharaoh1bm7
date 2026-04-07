@@ -1,5 +1,4 @@
 ## Hi there 👋
-# 👋 Hi, I'm Bilal Eladwy (pharaohBM7)
 
 🌐 Network Engineer passionate about building, designing, and troubleshooting enterprise networks.
 
@@ -7,136 +6,33 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Student  
-- 🌍 Based in Egypt  
+- 🌍 Based in Egypt 🇪🇬  
 - 🧠 Focused on Networking & Infrastructure  
-- ⚡ Strong understanding of network fundamentals and real-world implementations  
+- ⚡ Hands-on experience with real network projects  
 
 ---
 
 ## 🛠️ Skills
 
-### 🔹 Networking
-- Routing & Switching  
-- VLANs & Inter-VLAN Routing  
-- OSPF  
-- DHCP & NAT  
-- ACL (Access Control Lists)  
-
-### 🔹 Tools
-- Cisco Packet Tracer  
-- GNS3  
-- Wireshark  
-
-### 🔹 Operating Systems
-- Linux  
-- Windows Server (Basics)
+### 🌐 Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-%23007ACC.svg?style=for-the-badge)
+![Switching](https://img.shields.io/badge/Switching-%23FF6F00.svg?style=for-the-badge)
+![OSPF](https://img.shields.io/badge/OSPF-%23E34F26.svg?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-%2300C853.svg?style=for-the-badge)
+![ACL](https://img.shields.io/badge/ACL-%23D32F2F.svg?style=for-the-badge)
 
 ---
 
-## 📂 Projects
-
-### 🔸 Enterprise Network Design
-- Multi-layer network design  
-- Dynamic routing using OSPF  
-- VLAN segmentation  
-- Centralized services (DHCP, NAT, ACLs)
-
-👉 Check it here:  
-https://github.com/pharaoh1bm7/Enterprise-Multi-Layer-Network-Design-with-Dynamic-Routing-Centralized-Services
+### 🧰 Tools
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0096D6?style=for-the-badge&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-2C2C2C?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
-
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pharaoh1bm7&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Contact Me
-- GitHub: https://github.com/pharaoh1bm7  
+### 💻 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-
-## 💡 Quote I Believe In
-"Consistency beats talent when talent doesn’t work hard."
-
----
-
-⭐ Always learning, always building.
-<!--
-**pharaoh1bm7/pharaoh1bm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 👋 Hi, I'm Bilal Eladwy (pharaohBM7)
-
-🌐 Network Engineer passionate about building, designing, and troubleshooting enterprise networks.
-
----
-
-## 🚀 About Me
-- 🎓 Computer Science Student  
-- 🌍 Based in Egypt  
-- 🧠 Focused on Networking & Infrastructure  
-- ⚡ Strong understanding of network fundamentals and real-world implementations  
-
----
-
-## 🛠️ Skills
-
-### 🔹 Networking
-- Routing & Switching  
-- VLANs & Inter-VLAN Routing  
-- OSPF  
-- DHCP & NAT  
-- ACL (Access Control Lists)  
-
-### 🔹 Tools
-- Cisco Packet Tracer  
-- GNS3  
-- Wireshark  
-
-### 🔹 Operating Systems
-- Linux  
-- Windows Server (Basics)
-
----
-
-## 📂 Projects
-
-### 🔸 Enterprise Network Design
-- Multi-layer network design  
-- Dynamic routing using OSPF  
-- VLAN segmentation  
-- Centralized services (DHCP, NAT, ACLs)
-
-👉 Check it here:  
-https://github.com/pharaoh1bm7/Enterprise-Multi-Layer-Network-Design-with-Dynamic-Routing-Centralized-Services
-
----
-
-## 📈 GitHub Stats
-
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pharaoh1bm7&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Contact Me
-- GitHub: https://github.com/pharaoh1bm7  
-
----
-
-## 💡 Quote I Believe In
-"Consistency beats talent when talent doesn’t work hard."
-
----
-
-⭐ Always learning, always building.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
