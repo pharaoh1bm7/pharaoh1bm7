@@ -35,6 +35,9 @@
 
 <img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/f2fabfbe-a9ec-4a89-93dd-1ca4fbae4a2d" />
 
+<img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/094afd77-df57-4ac9-b586-0b14d2fe7002" />
+
+
 
 ### 💻 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
