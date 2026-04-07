@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   
 
-<img width="50" height="50" alt="1728658768674-1000007289" src="https://github.com/user-attachments/assets/eec1b217-cfb2-4822-8d64-69aba979535a" />
+<img height="50" alt="1728658768674-1000007289" src="https://github.com/user-attachments/assets/eec1b217-cfb2-4822-8d64-69aba979535a" />
 
 
 
