@@ -40,7 +40,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   
-<img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/e98cbad5-59fa-4a8a-946a-8b5788c87983" />
+<img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/821db604-bd3d-4d29-88e5-413d23746552" />
+
 
 
   
