@@ -13,6 +13,11 @@
   <img src="https://streak-stats.demolab.com?user=pharaoh1bm7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=5&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Designing%20networks%20that%20don%E2%80%99t%20just%20connect%20%E2%80%94%20they%20perform&descSize=14&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+
 ---
 <h3 align="left">🔗 Connect with me</h3>
 
@@ -28,4 +33,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
 </div>
 
+---
 
