@@ -43,8 +43,12 @@
 
 <img height="50" alt="1728658768674-1000007289" src="https://github.com/user-attachments/assets/eec1b217-cfb2-4822-8d64-69aba979535a" />
 
-
-
-  
 </div>
 
+<h3 align="left"> OS </h3>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+</div>
