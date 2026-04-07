@@ -24,6 +24,7 @@
 ![ACL](https://img.shields.io/badge/ACL-%23D32F2F.svg?style=for-the-badge)
 
 ---
+<img width="128" height="128" alt="882730" src="https://github.com/user-attachments/assets/c2d88e2d-26f0-4b2f-938f-09475d0fc10c" />
 
 ## 🧰 Tools
 
