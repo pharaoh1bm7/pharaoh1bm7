@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi, I'm Bilal Eladwy 👋</h1>
+<h1 align="left">Hi, I'm Belal Eladawy 👋</h1>
 <h3 align="left">OWASP Project Leader | Network Engineer | Security Researcher</h3>
 
 <div align="center">
@@ -13,10 +13,10 @@
 </div>
 
 ---
-# 🔗 Connect with me
+# 
 ---
 
-## 🔗 Connect with me
+<h3 align="left">🔗 Connect with me</h3>
 <p align="left">
 <a href="https://github.com/pharaoh1bm7"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
