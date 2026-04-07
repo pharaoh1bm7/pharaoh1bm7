@@ -11,6 +11,4 @@
 <div align="center">
   <a href="https://www.google.com/search?q=belal+eladawy"> <!-- Google Me -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2EF72C&background=110757F6&center=true&width=435&lines=I'm+Belal+Eladawy;Security+Researcher;Network+Engineer+;OWASP+Project+Leader)](https://git.io/typing-svg)
-</div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2EF72C&background=%23%230D1117&center=true&width=435&lines=I'm+Belal+Eladawy;Security+Researcher;Network+Engineer+;OWASP+Project+Leader)](https://git.io/typing-svg)
