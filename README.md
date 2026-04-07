@@ -38,11 +38,5 @@
   <img src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg" height="40"/>
 </a>
 
-<a href="https://bugcrowd.com/YOUR_USERNAME" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/bugcrowd/bugcrowd-icon.svg" height="40"/>
-</a>
 
-<a href="https://owasp.org/www-chapter-YOUR-CHAPTER/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" height="40"/>
-</a>
 ---
