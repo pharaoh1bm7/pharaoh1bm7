@@ -1,6 +1,7 @@
 
-<h1 align="left">Hi, I'm Belal Eladawy 👋</h1>
-<h3 align="left">OWASP Project Leader | Network Engineer | Security Researcher</h3>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=5&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Hi,%20I'm%20Belal%20Eladawy&descSize=27&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div><h3 align="left">OWASP Project Leader | Network Engineer | Security Researcher</h3>
 
 <div align="center">
   <a href="https://www.google.com/search?q=belal+eladawy"> <!-- Google Me -->
@@ -13,9 +14,7 @@
   <img src="https://streak-stats.demolab.com?user=pharaoh1bm7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=5&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Designing%20networks%20that%20don%E2%80%99t%20just%20connect%20%E2%80%94%20they%20perform&descSize=27&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+
 
 
 ---
