@@ -39,7 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-<img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/f3f8e228-43a8-4a99-ba3f-8a46306cb447" />
+  
+<img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/e98cbad5-59fa-4a8a-946a-8b5788c87983" />
+
 
   
 </div>
