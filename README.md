@@ -1,12 +1,12 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=5&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Hi,%20I'm%20Belal%20Eladawy&descSize=27&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div><h3 align="left">OWASP Project Leader | Network Engineer | Security Researcher</h3>
+</div><h3 align="left">IT Engineer | Security Researcher | OWASP Project Leader</h3>
 
 <div align="center">
   <a href="https://www.google.com/search?q=belal+eladawy"> <!-- Google Me -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF70C&width=435&lines=IT+Engineer+;+Security+Researcher+;OWASP+Project+Leader)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF70C&center=true&width=435&lines=IT+Engineer+;+Security+Researcher+;OWASP+Project+Leader)](https://git.io/typing-svg)
 
 
 <h3 align="left">🔥   My Stats :</h3>
